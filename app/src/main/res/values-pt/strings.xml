@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChessRoyale</string>
+    <string name="fetching_puzzle">A obter o puzzle diário...</string>
+    <string name="puzzle_src">Fonte dos puzzles:</string>
+    <string name="logo">ISEL Logo</string>
+    <string name="game_button">"Começar jogo "</string>
+</resources>
